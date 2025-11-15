@@ -1,0 +1,3 @@
+- If u want your own audio,png and ico just delete the demo ones and rename urs to "default" and paste it into the music folder.
+- Remeber the file extentions are WAV,PNG,ICO.
+- Anything else wont work.
