@@ -41,6 +41,12 @@ cd ShadowBuilder
 pip install -r requirements.txt
 python main.py
 ```
+
+
+![Demo pic](https://github.com/z3ro0day/ShadowBuilder/blob/main/extra/ShadowBuilder.PNG?raw=true)
+
+
+
 ---
 # My hope to add premium features
 - Reverse Shell
