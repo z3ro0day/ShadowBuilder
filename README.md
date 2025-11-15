@@ -46,7 +46,11 @@ pip install python-vlc pycaw comtypes
 - Key-Logger
 - Etc
 
+
 # Suport me ❤️
 ```bash
 88fGveAuw7DdMumere62oMhXGWqt56NMq9GfMStB9eP8fWcXFKVNPXuiQTHJdtRTqvExLhX5Xqw14MJM4pQmD1x2SApNp3g
 ```
+
+- Note i dont knnow alot of python so please dont judge me. I did have some help from AI.
+- also most of my readme's are from AI cuz im lazy
