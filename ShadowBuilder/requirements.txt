@@ -1,5 +1,0 @@
-pyinstaller
-colorama
-python-vlc
-pycaw
-comtypes
