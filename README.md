@@ -33,11 +33,13 @@
 
 ## 📦 Requirements
 
-Install required packages:
+How to use ShadowBuilder:
 
 ```bash
-pip install pyinstaller colorama
-pip install python-vlc pycaw comtypes
+git clone https://github.com/z3ro0day/ShadowBuilder.git
+cd ShadowBuilder
+pip install -r requirements.txt
+python main.py
 ```
 ---
 # My hope to add premium features
