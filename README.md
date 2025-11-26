@@ -62,3 +62,7 @@ python main.py
 
 - Note i dont knnow alot of python so please dont judge me. I did have some help from AI.
 - also most of my readme's are from AI cuz im lazy
+
+
+
+[LICENSE](https://github.com/z3ro0day/ShadowBuilder/blob/main/LICENSE#L7)
